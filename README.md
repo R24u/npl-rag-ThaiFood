@@ -2,6 +2,9 @@
 
 A chatbot that answers questions about **Thai cooking** using **RAG (Retrieval-Augmented Generation)**. It retrieves information from a Thai food dataset and generates answers with an LLM.
 
+## Example code
+- 
+
 ## 🏗️ System Architecture
 
 ```
@@ -58,9 +61,6 @@ ThaiFoodRAG/
 └── README.md
 ```
 
-## 📊 Evaluation
-
-Uses **Precision@K** to measure the relevance of retrieved documents.
 
 ---
 
