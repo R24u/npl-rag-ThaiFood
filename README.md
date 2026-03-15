@@ -4,6 +4,7 @@ A chatbot that answers questions about **Thai cooking** using **RAG (Retrieval-A
 
 ## Example code
 - [colab](https://colab.research.google.com/drive/1Yv1DJ5i0BCAnyVaIVCY8cK6032Zr25vI?usp=sharing)
+- [kaggle](https://www.kaggle.com/code/thanananwongjaroen/deploy)
 
 ## 🏗️ System Architecture
 
